@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Web3Zify — Página, atención y cobros para su negocio",
+      "hasCanvas": false,
+      "bodyTextLen": 8630,
+      "bodyTextHash": "8c49e42c1699420cf05ed7acf6edee5f883e091fac140e179bd73550a2165e90",
+      "bodyTextPrefix": "Saltar al contenido Servicios Planes Proceso Preguntas WhatsApp ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Web3Zify — Página, atención y cobros para su negocio",
+      "hasCanvas": false,
+      "bodyTextLen": 8564,
+      "bodyTextHash": "e4e0a052d30f9487248575ee4e831ec936df87ff8b62ff98c10298a1c1d88e03",
+      "bodyTextPrefix": "Saltar al contenido Abrir menú Web3Zify LLC · Puerto Rico Su neg",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
